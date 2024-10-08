@@ -18,6 +18,7 @@ requirements:
   host:
     - python >=3.6
     - pip
+    - setuptools
   run:
     - python >=3.6
     - tqdm
@@ -34,7 +35,7 @@ about:
   home: https://github.com/Edinburgh-Genome-Foundry/Proglog
   license: MIT
   license_family: MIT
-  license_file: LICENCE.txt
+  license_file: LICENCE
   summary: Logs and progress bars manager for Python
 
   description: |
