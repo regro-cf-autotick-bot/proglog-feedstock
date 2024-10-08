@@ -35,7 +35,7 @@ about:
   home: https://github.com/Edinburgh-Genome-Foundry/Proglog
   license: MIT
   license_family: MIT
-  license_file: LICENCE
+  license_file: LICENSE
   summary: Logs and progress bars manager for Python
 
   description: |
